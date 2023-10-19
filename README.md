@@ -1,5 +1,10 @@
 # Tableau_Challenge
 
+![alt text](https://github.com/ricardodelosrios/Tableau_Challenge/blob/main/citibike3.jpg)
+
+
+Dashboard Link: (https://public.tableau.com/app/profile/ricardo.de.los.rios/viz/Citibike_16974967163520/Story1)
+
 ## OVERVIEW
 
 In this presentation, Citibike data for the months of August and September 2023 will be explored and analyzed. Citibike is a bicycle-sharing system that has become a vital element of urban mobility in New York City. For this project, Citibike data from the last two months was used (https://citibikenyc.com/system-data), in which a large amount of information was collected that allowed us to better understand how this service is used and what the most notable trends in sustainable mobility.
@@ -40,3 +45,5 @@ Por otro lado, en el top 50 de estaciones con menos finales de viaje, se evidenc
 In the two previous visualizations, it is evident that the trend is that most citizens are recurring citibike users. However, it is important to highlight that the West St & Chambers St and Broadway & W 58 St stations are the stations with the most casual users with 30.95% and 28.04% respectively.
 
 On the other hand, it is evident that although the classic bicycle is the most used in all bike stations. A greater number of electric bicycle users is evident at the Broadway & W 58 st station.
+
+Data provided by Citi Bike via https://citibikenyc.com/system-data
