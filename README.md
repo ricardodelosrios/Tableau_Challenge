@@ -5,6 +5,9 @@
 
 Dashboard Link: (https://public.tableau.com/app/profile/ricardo.de.los.rios/viz/Citibike_16974967163520/Story1)
 
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  
 ## OVERVIEW
 
 In this presentation, Citibike data for the months of August and September 2023 will be explored and analyzed. Citibike is a bicycle-sharing system that has become a vital element of urban mobility in New York City. For this project, Citibike data from the last two months was used (https://citibikenyc.com/system-data), in which a large amount of information was collected that allowed us to better understand how this service is used and what the most notable trends in sustainable mobility.
